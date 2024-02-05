@@ -20,9 +20,12 @@ A front-end implementation of an Amazon clone using HTML and CSS, providing a re
 3. Open the index.html file in your preferred web browser.
 
 ### Screenshots
-<img src = "./assets/project SS/photo1.png" width = 500px, heigth = 800px />
-<img src = "./assets/project SS/photo2.png" width = 500px, heigth = 800px />
-<img src = "./assets/project SS/photo3.png" width = 500px, heigth = 800px />
+<div>
+   <img src = "./assets/project SS/photo1.png" width = 500px, heigth = 800px />
+   <img src = "./assets/project SS/photo2.png" width = 500px, heigth = 800px />
+   <img src = "./assets/project SS/photo3.png" width = 500px, heigth = 800px />
+</div>
+
 
 ## Future Enhancements
 - Integrating dynamic functionality with JavaScript, such as adding products to the cart.
